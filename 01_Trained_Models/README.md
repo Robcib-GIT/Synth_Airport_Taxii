@@ -1,6 +1,6 @@
 ## Model Trained
 
-Six deep learning models were developed, each trained on a unique dataset configuration as shown in Figure [3]. To prevent overfitting, datasets were split into 70% training, 20% validation, and 10% test segments, with the latter consisting of previously unseen images. Images were uniformly resized to 640 pixels squared, and augmented with noise (1%), brightness variations (±14%), and rotations (±12%).
+Six deep learning models were developed, each trained on a unique dataset configuration as shown in Figure 3. To prevent overfitting, datasets were split into 70% training, 20% validation, and 10% test segments, with the latter consisting of previously unseen images. Images were uniformly resized to 640 pixels squared, and augmented with noise (1%), brightness variations (±14%), and rotations (±12%).
 
 Training occurred on Google Cloud Platform™ using NVIDIA® Tesla T4 and Volta V100 GPUs, employing AdamW optimizer with a 0.001 learning rate and 16 batch size, beginning with pre-trained weights. The best model for each configuration was selected after 100 epochs based on validation metrics, aiming for consistently low losses. The entire training effort for the six models took approximately 40 hours.
 
@@ -27,8 +27,10 @@ Training occurred on Google Cloud Platform™ using NVIDIA® Tesla T4 and Volta 
 
 ---
 
-## Download:
-Due to the size limitations of GitHub repositories, the trained models are available for download at the following link: https://drive.google.com/file/d/1s2PuU6891GdRzgAjii16_5z75O9yisT0/view?usp=sharing
+## Download
 
+Due to the size limitations of GitHub repositories, the trained models are available for download at the following link: [Download Trained Models](https://drive.google.com/file/d/1s2PuU6891GdRzgAjii16_5z75O9yisT0/view?usp=sharing)
+
+---
 *By Miguel Ángel de Frutos Carro*
 
