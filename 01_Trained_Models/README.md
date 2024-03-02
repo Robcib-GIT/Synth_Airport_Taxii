@@ -7,14 +7,14 @@ Training occurred on Google Cloud Platform™ using NVIDIA® Tesla T4 and Volta 
 ## Figures
 
 <p align="center">
-  <img src="02_Figures/Fig_422b_Real_Val_Images_examples.png" alt="Model Test">
+  <img src="https://github.com/astromaf/Synth_Airport_Taxii/blob/main/02_Figures/Fig_422b_Real_Val_Images_examples.png" alt="Model Test">
   <br>
   <em>Fig1.  The REAL(real_val) model is capable of accurately identifying and classifying objects within six real airport images. Source: Authors.</em>
 </p>
 
 
 <p align="center">
-  <img src="02_Figures/Fig_324a_Figx_Hybrid Dataset.png" alt="Dataset generation">
+  <img src="https://github.com/astromaf/Synth_Airport_Taxii/blob/main/02_Figures/Fig_324a_Figx_Hybrid%20Dataset.png" alt="Dataset generation">
   <br>
   <em>Fig2. Hybrid datasets formation, combining real and synthetic images in 10% (*) and 20% (**) mixes, resulting in four distinct datasets. Source: Authors</em>
 </p>
