@@ -4,14 +4,14 @@
   <em>Disclaimer: This project and all associated materials are currently under review for publication.</em>
 </p>
 
-**Authors:** *Miguel Ángel de Frutos Carro, Carlos Cerdán Villalonga, and Antonio Barrientos.*
+**Authors:** Miguel Ángel de Frutos Carro, Carlos Cerdán Villalonga, and Antonio Barrientos.
 
-**Affiliation:** *Centro de Automática y Robótica (UPM-CSIC), Universidad Politécnica de Madrid - Consejo Superior de Investigaciones Científicas, 28006 Madrid, Spain.*
+**Affiliation:** Centro de Automática y Robótica (UPM-CSIC), Universidad Politécnica de Madrid - Consejo Superior de Investigaciones Científicas, 28006 Madrid, Spain.
 
 ---
 
 ## Abstract
-*Autonomous navigation within airport environments poses significant challenges, primarily due to the scarcity of accessible and labeled data for training autonomous systems. This study introduces an innovative approach to evaluate the performance of vision-based models trained on synthetic datasets. We conducted a comparative analysis of two datasets: a synthetic dataset that mirrors real airport scenarios, generated using Microsoft Flight Simulator 2020®, and a real-world dataset. The goal is to assess the effectiveness of simulated data in enhancing the training and validation processes for complex airport environments. Our methodology includes a comparative analysis using image processing techniques and object detection algorithms. The findings suggest that models trained on a mix of real and synthetic images perform better, showing improved adaptability and accuracy over those trained on a single dataset type. This research contributes significantly to the field of autonomous airport navigation, offering a cost-effective and practical solution to overcome dataset acquisition and algorithm validation challenges, thereby laying the groundwork for future advancements.*
+Autonomous navigation within airport environments poses significant challenges, primarily due to the scarcity of accessible and labeled data for training autonomous systems. This study introduces an innovative approach to evaluate the performance of vision-based models trained on synthetic datasets. We conducted a comparative analysis of two datasets: a synthetic dataset that mirrors real airport scenarios, generated using Microsoft Flight Simulator 2020®, and a real-world dataset. The goal is to assess the effectiveness of simulated data in enhancing the training and validation processes for complex airport environments. Our methodology includes a comparative analysis using image processing techniques and object detection algorithms. The findings suggest that models trained on a mix of real and synthetic images perform better, showing improved adaptability and accuracy over those trained on a single dataset type. This research contributes significantly to the field of autonomous airport navigation, offering a cost-effective and practical solution to overcome dataset acquisition and algorithm validation challenges, thereby laying the groundwork for future advancements.
 
 **Keywords:** *Autonomous vehicles, airport markings recognition, computer vision, object detection, hybrid dataset, game engine.*
 
