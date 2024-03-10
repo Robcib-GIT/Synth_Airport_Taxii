@@ -32,5 +32,5 @@ Training occurred on Google Cloud Platform™ using NVIDIA® Tesla T4 and Volta 
 Due to the size limitations of GitHub repositories, the trained models are available for download at the following link: [Download Trained Models](https://drive.google.com/file/d/1SPVtQH4FRtc9Xt8_-QZ0grtru3xxsofl/view?usp=sharing)
 
 ---
-*By Miguel Ángel de Frutos Carro*
+*By Miguel Ángel de Frutos Carro, Carlos Cerdán Villalonga & Antonio Barrientos Cruz - 2024.*
 
