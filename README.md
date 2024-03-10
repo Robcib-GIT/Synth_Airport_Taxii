@@ -69,4 +69,4 @@ GPU v3.0: https://github.com/astromaf/Synth_Airport_Taxii/blob/main/LICENSE
 - Xue, W., & Roy, C. J. (2020). *Heterogeneous computing of cfd applications on a cpu-gpu platform using mpi and openacc*. AIAA Scitech 2020 Forum, 1–12. https://doi.org/10.2514/6
 
 ---
-*By Miguel Ángel de Frutos Carro, 2024*
+*By Miguel Ángel de Frutos Carro, Carlos Cerdán Villalonga & Antonio Barrientos Cruz 2024*
